@@ -1,16 +1,19 @@
 ### Hi there 👋
+### Find Me On :  
 
-<!--
-**aachalsingh/aachalsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aachal-singh-ba58b21b3/)
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/aachalll_)
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/aachalll)
+<br />
 
-Here are some ideas to get you started:
+### Programming Skills :computer: :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <code><img  height="30" width="30" src="https://img.icons8.com/color/48/000000/python.png"></code>
+  <code><img  height="30" width="30" src="https://img.icons8.com/color/2x/html-5.png"></code>
+  <code><img  height="30" width="30" src="https://img.icons8.com/color/2x/css3.png"></code>
+  <code><img  height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img  height="30" width="30" src="https://img.icons8.com/color/48/000000/c-programming.png"></code>
+  <code><img  height="30" width="30" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"></code>
+ -------
+
+
