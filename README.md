@@ -6,7 +6,7 @@
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/aachalll)
 <br />
 
-### My Programming Skills :computer: :
+### Programming Skills :computer: :
 
   <code><img  height="30" width="30" src="https://img.icons8.com/color/48/000000/python.png"></code>
   <code><img  height="30" width="30" src="https://img.icons8.com/color/2x/html-5.png"></code>
